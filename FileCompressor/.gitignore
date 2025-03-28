@@ -1,1 +1,2 @@
-large-file-10mb.txt
+*.txt
+*.gz

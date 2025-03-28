@@ -4,11 +4,11 @@ A collection of tiny **Node.js projects** exploring Streams, Buffers, File Syste
 
 ## 🚀 Projects Included:
 
-- 📦 [**File Compressor**]() – Compress files using Gzip streams.
-- 📂 [**Large File Splitter**]() – Split large files into smaller chunks.
-- 🔍 [**Real-time File Watcher**]() – Monitor directory changes in real-time.
-- 🌍 [**HTTP Server with File Streaming**]() – Serve large files efficiently.
-- 💬 [**Simple Chat Logger**]() – Log user messages as buffers in a file.
+- 📦 [**File Compressor**](https://github.com/asit-behera/node-playground/tree/main/FileCompressor) – Compress files using Gzip streams.
+- 📂 [**Large File Splitter**](https://github.com/asit-behera/node-playground/tree/main/) – Split large files into smaller chunks.
+- 🔍 [**Real-time File Watcher**](https://github.com/asit-behera/node-playground/tree/main/) – Monitor directory changes in real-time.
+- 🌍 [**HTTP Server with File Streaming**](https://github.com/asit-behera/node-playground/tree/main/) – Serve large files efficiently.
+- 💬 [**Simple Chat Logger**](https://github.com/asit-behera/node-playground/tree/main/) – Log user messages as buffers in a file.
 
 ## 📌 How to Run:
 
